@@ -18,6 +18,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 .passo{
     display: none;
 }
+
 .passivo.ativo {
 display: block;
 }

@@ -19,7 +19,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
     display: none;
 }
 
-.passivo.ativo {
+.passo.ativo {
 display: block;
 }
 
@@ -28,6 +28,6 @@ text-align: center;
 max-width: 90%;
 }
 
-img{
+img {
     max-width: 30%;
 }

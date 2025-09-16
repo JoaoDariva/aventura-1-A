@@ -9,13 +9,13 @@ height: 700px;
 margin: 0;
 }
 
-button{
+button {
 background-color: brown;
 color: aliceblue;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
-.passo{
+.passo {
     display: none;
 }
 
